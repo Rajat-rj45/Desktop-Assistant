@@ -5,6 +5,16 @@ This project is simple desktop voice assistant built with python named as “Jar
 
 🔸 Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.</p>
 <hr>
-<h2>Features<h2>
-
+<h2>Features</h2>
 <p>It can do a lot of cool things, some of them being:</p>
+ <ul>
+        <li>Greet user</li>
+        <li>Tell current time and date</li>
+        <li>Launch applications/softwares</li>
+        <li>Open any website</li>
+        <li>Tells about any person (via Wikipedia)</li>
+        <li>Can search anything on Google</li>
+        <li>Plays music</li>
+        <li>Take important note in text file</li>
+        <li>Can take screenshot and save it with custom filename</li>
+    </ul>
